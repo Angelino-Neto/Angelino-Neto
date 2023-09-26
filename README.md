@@ -1,9 +1,13 @@
 ## Bem-vindo(a) ao meu universo 👽
 
  <div>
-   <a href="https://github.com/Brawny97">
+   <a href="https://github.com/angelino-neto">
    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=angelino-neto&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=angelino-neto&layout=compact&langs_count=6&theme=tokyonight"/>
+</div>
+
+<div align="center">
+ <h1>Tecnologias: </h1>
 </div>
     
 <div style="display: inline_block"><br>
