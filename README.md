@@ -1,5 +1,4 @@
 ## Bem-vindo(a) ao meu universo 👽
-## Welcome to my universe 👽
 
  <div>
    <a href="https://github.com/Brawny97">
