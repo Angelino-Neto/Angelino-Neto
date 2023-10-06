@@ -15,8 +15,6 @@
     <img src="https://skillicons.dev/icons?i=html,css,js,py" />
   </a>
 </p>  
-  
-
  
 <br>
  
